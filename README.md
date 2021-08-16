@@ -13,7 +13,7 @@ Currently the program is still in the beginner phases it consists of the first f
 
 ### The project needs to be able to do:
 * Create new projects and update information of the project.
-* Finalize the project which creates an invoice for the customer and writes the results of the project into a textfile.
+* Finalize the project which creates an invoice for the customer..
 * Able to assign employees(contracters and architects) to the project.
 * Create and store the information about the customer.
 * Pull information in list form of all current projects running.
@@ -26,4 +26,4 @@ To run the code we have created the scripts to initialize all of the classes and
 
 ## Project Progression
 
-As this project is still in the first phases this file will be updated as the phases progress.
+This project will have further enhancements and optimimizations in the future.
